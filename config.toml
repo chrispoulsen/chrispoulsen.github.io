@@ -1,4 +1,4 @@
-baseURL = "https://chrispoulsen.dk/"
+baseURL = "/"
 languageCode = "en-us"
 title = "The online home of Chris Poulsen"
 theme = "ananke"
