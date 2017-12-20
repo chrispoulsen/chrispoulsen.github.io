@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  #name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
   # Auth section
   name: github
